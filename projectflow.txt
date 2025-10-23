@@ -1,3 +1,4 @@
+mongodb+srv://hanzlainam204_db_user:lIo8ZisfreaISqdY@cluster1.1xqjiao.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
 1. Create project template by executing template.py file
 2. Write the code on setup.py and pyproject.toml file to import local packages
    >> Find more about "setup.py and pyproject.toml" at crashcourse.txt
